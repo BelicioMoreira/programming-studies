@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {]
+int main() {
     
     // This is my firt program!
     /*
